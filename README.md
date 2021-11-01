@@ -2,7 +2,7 @@
 <h3> About the Internship</h3>
   <h4>Coding Ninjas is a EdTech industry leader in India which offers online courses in various programming domains. I have done their Data Structures and Algoritms in C++ course in which I have recieved Certificate of Excellence with overall score of 99.58% and Rank 1 among 45 students.</h4>
   <h4>Those who perform excellent in thier course were offered 4-months online Teaching Assistantship.</h4>
-  <h4>Responsibilites of Teaching Assistant was to:</h4> 
+  <h4>What were my responsibilites as a Teaching Assistant?</h4> 
   
   <ul>
     <li>Take doubts of students enrolled in course of Data Structures on topics like Recursion, Dynamic Programming, Graphs, etc.</li>
@@ -10,7 +10,7 @@
   </ul>
   
   <div align = "center"><img src = "https://github.com/harshitx9/Teaching-Assistant/blob/main/Offer.JPG" width="375" height="335.5"/><h5> Offer of Internship</h5>
-  
+  </div>
   
   <h4 align = "left"> What was the work I did?</h4>
   
@@ -20,3 +20,11 @@
   </ul>
     <div align = "center"><img src = "https://github.com/harshitx9/Teaching-Assistant/blob/main/Stats.jpg" width="769.5" height="769.5"/>
     <h5> Performance Statistics</h5>
+  </div>
+  <h4 align = "left">What I achieved?</h4>
+  <ul align = "left">
+    <li>I gained great experience of debugging codes and taking doubt sessions.</li>
+  </ul>
+    <div align = "center"><img src = "https://github.com/harshitx9/Teaching-Assistant/blob/main/Certificate%20of%20Experience.png" width="1236" height="1764"/>
+  <div align ="center"><h5>Internship Certificate</h5></div>
+  
